@@ -25,7 +25,7 @@ task :pdf do
   `mkdir -p contracts`
   ['cp', 'cgv', 'cga'].each do |file|
     `rm -f contracts/#{file}.pdf`
-    `bundle exec gimli -f tmp/#{file}.md -o contracts`
+    `bundle exec gimli -f tmp/#{file}.md -o contracts -w "--minimum-font-size 50"`
   end
   puts 'Vos fichiers sont dans le dossier contracts'
 end
