@@ -1,10 +1,9 @@
-#Conditions Générales d’achat de {{company.name}} applicables à compter du {{cga.start_date}}
+# Conditions Générales d’achat de {{company.name}} applicables à compter du {{cga.start_date}}
 
-**ENTRE LES SOUSSIGNES **
+**ENTRE LES SOUSSIGNES**
 
-**{{company.name}}**, {{company.legal_structure}} au capital de
-{{company.capital}} €, enregistrée au RCS de {{company.rcs_city}} sous
-n°{{company.rcs_number}}, dont le siège social est sis {{company.address}},
+**{{company.name}}**, {{company.legal_structure}}, enregistrée sous le numéro
+de SIRET {{company.siret}}, dont le siège social est sis {{company.address}},
 représentée aux fins des présentes par {{company.holder_name}} en qualité de
 {{company.holder_role}},
 
@@ -45,9 +44,9 @@ présentes.
 Le Contrat est formé des documents contractuels suivants présentés par ordre
 hiérarchique de valeur juridique décroissante :
 
-* les Conditions particulières ;
-* le cahier des charges ;
-* les présentes Conditions générales d’achat.
+- les Conditions particulières ;
+- le cahier des charges ;
+- les présentes Conditions générales d’achat.
 
 En cas de contradiction entre une et/ou plusieurs stipulations figurant dans
 l'un quelconque de ces documents, le document de rang supérieur prévaudra.
@@ -64,7 +63,7 @@ A compter de la date de signature du Contrat, le Sous-traitant cède à
 Livrables.
 
 Les droits d’auteur sur le Livrable seront transférés à {{company.name}} au fur
-et à mesure de leur réalisation par le Sous-traitant  conformément au présent
+et à mesure de leur réalisation par le Sous-traitant conformément au présent
 article.
 
 ### 4.1 Durée de la cession
@@ -94,37 +93,37 @@ promotionnelle.
 
 La cession du droit de reproduction comporte :
 
-* le droit reproduire ou de numériser les Livrables par tout procédé technique
-connu ou inconnu à ce jour, notamment optique, magnétique et numérique, sur tout
-support, notamment vidéo, support numérique, y compris CD-ROM, DVD, en tout
-format ;
-* le droit de moduler, compresser ou décompresser les Livrables pour son
-stockage, son transfert, sa diffusion ou toute autre utilisation ;
-* le droit de reproduire et/ou de faire reproduire en tel nombre qu'il plaira à
-{{company.name}} ou à ses ayants droit, tous originaux, doubles ou copies sur
-tous supports visés ci-dessus, en tous formats et par tous procédés connus ou
-inconnus à ce jour, à partir des enregistrements ci-dessus, en tous formats et
-par tout procédés technologiques existant ou à découvrir ;
-* le droit de mettre et/ou de faire mettre en circulation dans le monde entier,
-les originaux, doubles ou copies pour toute communication au public.
+- le droit reproduire ou de numériser les Livrables par tout procédé technique
+  connu ou inconnu à ce jour, notamment optique, magnétique et numérique, sur tout
+  support, notamment vidéo, support numérique, y compris CD-ROM, DVD, en tout
+  format ;
+- le droit de moduler, compresser ou décompresser les Livrables pour son
+  stockage, son transfert, sa diffusion ou toute autre utilisation ;
+- le droit de reproduire et/ou de faire reproduire en tel nombre qu'il plaira à
+  {{company.name}} ou à ses ayants droit, tous originaux, doubles ou copies sur
+  tous supports visés ci-dessus, en tous formats et par tous procédés connus ou
+  inconnus à ce jour, à partir des enregistrements ci-dessus, en tous formats et
+  par tout procédés technologiques existant ou à découvrir ;
+- le droit de mettre et/ou de faire mettre en circulation dans le monde entier,
+  les originaux, doubles ou copies pour toute communication au public.
 
 #### 4.3.3 Cession du droit de représentation
 
 La cession du droit de représentation comporte :
 
-* le droit de communication au public des Livrables dans le monde entier, en
-toutes versions française, étrangère, en toutes langues, sur tous supports,
-notamment disque dur, CD-Rom et DVD, par tout réseau permettant la transmission
-de données, d'images et/ou de sons, notamment de télédiffusion, réseaux et
-services numériques interactifs ou non, Internet, sites web, réseaux de
-télécommunication, par tous modes et procédés analogiques ou numériques connus
-ou inconnus à ce jour, permettant la transmission de données, par tous moyens,
-sur tous supports en tous formats, soit directement, soit par l'intermédiaire de
-tous tiers ou organismes autorisés par {{company.name}} et ce, tant dans le
-secteur commercial que non commercial, public ou privé ;
-* le droit d'exploiter les Livrables, en tout ou partie, par tout réseau,
-notamment de télécommunication ou câblé, par tout procédé interactif inhérent à
-ce mode d'exploitation.
+- le droit de communication au public des Livrables dans le monde entier, en
+  toutes versions française, étrangère, en toutes langues, sur tous supports,
+  notamment disque dur, CD-Rom et DVD, par tout réseau permettant la transmission
+  de données, d'images et/ou de sons, notamment de télédiffusion, réseaux et
+  services numériques interactifs ou non, Internet, sites web, réseaux de
+  télécommunication, par tous modes et procédés analogiques ou numériques connus
+  ou inconnus à ce jour, permettant la transmission de données, par tous moyens,
+  sur tous supports en tous formats, soit directement, soit par l'intermédiaire de
+  tous tiers ou organismes autorisés par {{company.name}} et ce, tant dans le
+  secteur commercial que non commercial, public ou privé ;
+- le droit d'exploiter les Livrables, en tout ou partie, par tout réseau,
+  notamment de télécommunication ou câblé, par tout procédé interactif inhérent à
+  ce mode d'exploitation.
 
 Le droit de représentation pourra être exercé soit directement, soit par
 l'intermédiaire de tous tiers ou organismes autorisés par {{company.name}} et
@@ -134,22 +133,22 @@ ce, tant dans le secteur commercial que non commercial.
 
 La cession du droit d’adaptation comporte :
 
-* le droit d'adapter ou de faire adapter les Livrables, afin qu’ils soient
-intégrés à un ou plusieurs logiciels ;
-* le droit d'adapter ou de faire adapter les Livrables, afin qu’ils soient
-intégrés à toute nouvelle version des Livrables ;
-* le droit d'adapter ou de faire adapter les Livrables pour des raisons purement
-techniques ;
-* le droit de traduire les Livrables en toute langue ;
-* le droit d'effectuer les modifications techniquement nécessaires à l’exercice
-des droits cédés sur tous supports et dans tous formats connus ou inconnus à ce
-jour ;
-* le droit de corriger et de débuguer les Livrables ;
-* le droit de modifier les Livrables ou un de ses éléments, afin d’en optimiser
-les caractères esthétiques ou fonctionnels ;
-* le droit de dissocier les Livrables ou un de ses éléments de son ensemble,
-afin de créer une œuvre composite ou dérivée ;
-* le droit de réécrire les Livrables dans un autre langage informatique.
+- le droit d'adapter ou de faire adapter les Livrables, afin qu’ils soient
+  intégrés à un ou plusieurs logiciels ;
+- le droit d'adapter ou de faire adapter les Livrables, afin qu’ils soient
+  intégrés à toute nouvelle version des Livrables ;
+- le droit d'adapter ou de faire adapter les Livrables pour des raisons purement
+  techniques ;
+- le droit de traduire les Livrables en toute langue ;
+- le droit d'effectuer les modifications techniquement nécessaires à l’exercice
+  des droits cédés sur tous supports et dans tous formats connus ou inconnus à ce
+  jour ;
+- le droit de corriger et de débuguer les Livrables ;
+- le droit de modifier les Livrables ou un de ses éléments, afin d’en optimiser
+  les caractères esthétiques ou fonctionnels ;
+- le droit de dissocier les Livrables ou un de ses éléments de son ensemble,
+  afin de créer une œuvre composite ou dérivée ;
+- le droit de réécrire les Livrables dans un autre langage informatique.
 
 Le Sous-traitant reconnaît que les modifications, adaptations, développements,
 évolutions, traductions, transcriptions des codes sources et exécutables des
@@ -167,17 +166,17 @@ d'exemplaires des Livrables sous quelque forme que ce soit.
 
 La cession du droit d'utilisation secondaire comporte notamment :
 
-* le droit d'inclure les Livrables dans toute base de données pour toutes
-exploitations de celle-ci ;
-* le droit de diffuser par téléchargement ou téléchargement total ou partiel,
-provisoire ou permanent, les Livrables sur tous types de réseaux de
-télécommunications et notamment sur les réseaux numériques Internet fixes et
-mobiles, ainsi que sur les réseaux de téléphonie portable en vue d’une
-exploitation sur téléphone portable et smartphones ;
-* le droit d'exploiter les Livrables, en tout ou partie, à des fins culturelles
-ou pédagogiques (médiathèques, Education nationale, etc.), par tous procédés
-audiovisuels ou autres, tous réseaux de télécommunication et par intégration
-dans un programme multimédia.
+- le droit d'inclure les Livrables dans toute base de données pour toutes
+  exploitations de celle-ci ;
+- le droit de diffuser par téléchargement ou téléchargement total ou partiel,
+  provisoire ou permanent, les Livrables sur tous types de réseaux de
+  télécommunications et notamment sur les réseaux numériques Internet fixes et
+  mobiles, ainsi que sur les réseaux de téléphonie portable en vue d’une
+  exploitation sur téléphone portable et smartphones ;
+- le droit d'exploiter les Livrables, en tout ou partie, à des fins culturelles
+  ou pédagogiques (médiathèques, Education nationale, etc.), par tous procédés
+  audiovisuels ou autres, tous réseaux de télécommunication et par intégration
+  dans un programme multimédia.
 
 ## 4.4 Exploitation des droits
 
@@ -235,15 +234,15 @@ suivante :
 
 S’il s’agit d’un logiciel :
 
-* les codes source ;
-* l'ensemble des codes exécutables ;
-* la copie des travaux d’analyse et de programmation ;
-* la documentation.
+- les codes source ;
+- l'ensemble des codes exécutables ;
+- la copie des travaux d’analyse et de programmation ;
+- la documentation.
 
 S’il s’agit d’éléments graphiques :
 
-* le document numérique dans sa version présentant la meilleure résolution ;
-* le document sur support papier.
+- le document numérique dans sa version présentant la meilleure résolution ;
+- le document sur support papier.
 
 Le Sous-traitant confère la propriété matérielle des supports fournis dans le
 cadre des présentes à {{company.name}}.
@@ -271,10 +270,10 @@ relatifs au Livrable.
 
 Le Sous-traitant garantit notamment :
 
-* que le Livrable ne constitue pas une contrefaçon d'une œuvre préexistante ;
-* qu'il a respecté et respectera les droits de propriété intellectuelle des
-tiers, notamment les droits d'auteur, les droits sur les dessins et modèles,
-ainsi que les droits sur les brevets et sur les marques.
+- que le Livrable ne constitue pas une contrefaçon d'une œuvre préexistante ;
+- qu'il a respecté et respectera les droits de propriété intellectuelle des
+  tiers, notamment les droits d'auteur, les droits sur les dessins et modèles,
+  ainsi que les droits sur les brevets et sur les marques.
 
 Le Sous-traitant garantit qu'à la date de signature du Contrat, il n'existe
 aucune revendication dont il ait connaissance. A ce titre, le Sous-traitant
@@ -295,8 +294,8 @@ par le développement d'un autre élément non contrefaisant.
 Le Sous-traitant garantit qu'à la date de la signature du Contrat, le Livrable
 est libre de toute servitude, et notamment :
 
-* que le Livrable n'a pas fait l'objet de nantissement de droit d'exploitation ;
-* que le Livrable ne fait pas l'objet de caution ou de garantie.
+- que le Livrable n'a pas fait l'objet de nantissement de droit d'exploitation ;
+- que le Livrable ne fait pas l'objet de caution ou de garantie.
 
 Le Sous-traitant garantit qu'aucune cession ou concession de droits de propriété
 intellectuelle relative au Livrable n’est de nature à priver {{company.name}} de
@@ -345,9 +344,9 @@ présentes, en ce qui concerne leurs affaires respectives. En particulier, tous
 les renseignements concernant les Clients finaux, codes, méthodes, schémas,
 maquettes et documentations fournis au personnel, sous-traitant et tiers de
 l’une ou l’autre des parties, tous les documents (économiques, techniques,
-  fonctionnels, organisationnels, etc.) et données qui leur sont confiés, tous
-  les entretiens auxquels ils participent et tous les documents émis sont
-  considérés comme des informations confidentielles.
+fonctionnels, organisationnels, etc.) et données qui leur sont confiés, tous
+les entretiens auxquels ils participent et tous les documents émis sont
+considérés comme des informations confidentielles.
 
 Ne sont pas considérées comme confidentielles les informations qui étaient déjà
 connues par les parties avant le début de leurs relations contractuelles, preuve

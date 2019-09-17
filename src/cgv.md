@@ -1,63 +1,59 @@
 # Conditions Générales de vente de {{company.name}} (applicables à compter du {{cgv.start_date}})
 
-
 ## Article 1. Champ d’application
 
-Les présentes conditions générales sont applicables entre {{company.name}},
-{{company.legal_structure}} au capital de {{company.capital}} €, enregistrée au
-RCS de {{company.rcs_city}} sous n°{{company.rcs_number}}, dont le siège social
-est sis {{company.address}}, représentée aux fins des présentes par
-{{company.holder_name}} en qualité de {{company.holder_role}}, Ci-après dénommée
-« {{company.name}} », et toute personne physique ou morale, particulier ou
-professionnel, de droit privé ou de droit public, contractant avec
-{{company.name}} pour la réalisation d’un Livrable, ci-après « le Client ».
-
+Les présentes conditions générales sont applicables entre **{{company.name}}**,
+{{company.legal_structure}}, enregistrée sous le numéro de SIRET
+{{company.siret}}, dont le siège social est sis {{company.address}}, et toute
+personne physique ou morale, particulier ou professionnel, de droit privé ou de
+droit public, contractant avec {{company.name}} pour la réalisation d’un
+Livrable, ci-après « le Client ».
 
 ## Article 2. Définitions
 
-Devis : conditions particulières du présent contrat contenant notamment les
+**Devis** : conditions particulières du présent contrat contenant notamment les
 conditions techniques, spécifiques et tarifaires de la réalisation du Livrable
 par {{company.name}}.
 
-Livrable : Version fonctionnelle d’un site web, logiciel, éléments graphiques,
-éditoriaux ou autres, livrés par {{company.name}} au Client à l’issue de chaque
-Itération.
+**Livrable** : Version fonctionnelle d’un site web, logiciel, éléments
+graphiques, éditoriaux ou autres, livrés par {{company.name}} au Client à
+l’issue de chaque Itération.
 
-Backlog : document contractuel par lequel {{company.name}} reformule l’Icebox
-en termes de fonctionnalités techniques auxquelles un indice de difficulté est
-associé.
+**Backlog** : document contractuel par lequel {{company.name}} reformule
+l’Icebox en termes de fonctionnalités techniques auxquelles un indice de
+difficulté est associé.
 
-Icebox : spécifications fonctionnelles définies par le Client, sous la forme de
-cas simples et factuels.
+**Icebox** : spécifications fonctionnelles définies par le Client, sous la forme
+de cas simples et factuels.
 
-Bibliothèques : composants logiciels structurels, définissant les fondations du
-Livrable. Les Bibliothèques sont placées sous licence M.I.T. ou licence
-équivalente. Le Client est investi des droits sur les Bibliothèques
-conformément à cette licence spécifique.
+**Bibliothèques** : composants logiciels structurels, définissant les fondations
+du Livrable. Les Bibliothèques sont placées sous licence M.I.T. ou licence
+équivalente. Le Client est investi des droits sur les Bibliothèques conformément
+à cette licence spécifique.
 
-Développements Spécifiques : contenus réalisés spécifiquement par
-{{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client
-est investi des droits sur les développements spécifiques conformément à la
-licence ci-après exposée.
+**Développements Spécifiques** : contenus réalisés spécifiquement par
+{{company.name}} pour le Client dans le cadre de la méthode Agile. Le Client est
+investi des droits sur les développements spécifiques conformément à la licence
+ci-après exposée.
 
-Correction : Toute correction d’erreur sur le Livrable, n’ayant pas d’autre
+**Correction** : Toute correction d’erreur sur le Livrable, n’ayant pas d’autre
 finalité que de corriger des dysfonctionnements ou des erreurs.
 
-Élément apporté : contenu de toute nature (codes, textes, images, sons…) inséré
-dans le Livrable, soit par {{company.name}} à la demande du Client, soit par le
-Client lui-même.
+**Élément apporté** : contenu de toute nature (codes, textes, images, sons…)
+inséré dans le Livrable, soit par {{company.name}} à la demande du Client, soit
+par le Client lui-même.
 
-Évolution : Toute modification, évolution, adaptation, adjonction, suppression,
-traduction, nouvelle version, ne constituant pas une simple Correction.
+**Évolution** : Toute modification, évolution, adaptation, adjonction,
+suppression, traduction, nouvelle version, ne constituant pas une simple
+Correction.
 
-Itération : Cycle de développement aux termes duquel une version fonctionnelle
-du Livrable est livrée par {{company.name}} au Client.
-
+**Itération** : Cycle de développement aux termes duquel une version
+fonctionnelle du Livrable est livrée par {{company.name}} au Client.
 
 ## Article 3. Objet du contrat
 
-Par le présent contrat, {{company.name}} s’engage à concevoir et à réaliser
-pour le compte du Client un Livrable conformément à la méthode
+Par le présent contrat, {{company.name}} s’engage à concevoir et à réaliser pour
+le compte du Client un Livrable conformément à la méthode
 [Agile](http://agilemanifesto.org/iso/fr/manifesto.html).
 
 ## Article 4. Obligations des parties
@@ -76,8 +72,8 @@ d’une notification immédiate de refus adressé par le Client à {{company.nam
 par lettre recommandée avec avis de réception. Le taux horaire du sous-traitant
 est celui mentionné sur le Devis.
 
-Sauf stipulation contraire dans le Devis, {{company.name}} n’est soumis à
-aucune obligation de maintenance ou d’assistance à l’utilisation.
+Sauf stipulation contraire dans le Devis, {{company.name}} n’est soumis à aucune
+obligation de maintenance ou d’assistance à l’utilisation.
 
 ### 4.2. Obligations et déclarations du Client
 
@@ -89,37 +85,36 @@ contrat.
 
 Le Client reconnaît que ses besoins et les prestations proposées par
 {{company.name}} sont en adéquation et qu’il a souscrit au contrat en
-connaissance de cause et en disposant de toutes les informations nécessaires
-lui permettant de produire un consentement libre et éclairé.
+connaissance de cause et en disposant de toutes les informations nécessaires lui
+permettant de produire un consentement libre et éclairé.
 
-Le Client s’engage à informer {{company.name}} de toute circonstance
-susceptible d’affecter l’exécution du présent contrat dès qu’il en a
-connaissance.
+Le Client s’engage à informer {{company.name}} de toute circonstance susceptible
+d’affecter l’exécution du présent contrat dès qu’il en a connaissance.
 
 #### 4.2.2. Fourniture des informations
 
-Le Client s'engage à réagir et à fournir à {{company.name}} toutes les informations et
-tous les documents nécessaires à la réalisation des prestations dans un délai
-de 24h. Le Client doit soumettre à {{company.name}} des informations et/ou documents
-lisibles et compréhensibles. A défaut, {{company.name}} peut décider de ne pas prendre
-en charge ou de reporter d’exécution de la prestation.
+Le Client s'engage à réagir et à fournir à {{company.name}} toutes les
+informations et tous les documents nécessaires à la réalisation des prestations
+dans un délai de 24h. Le Client doit soumettre à {{company.name}} des
+informations et/ou documents lisibles et compréhensibles. A défaut,
+{{company.name}} peut décider de ne pas prendre en charge ou de reporter
+d’exécution de la prestation.
 
 #### 4.2.5. Réactivité
 
 Le Client s’engage à réagir dans les meilleurs délais à toute demande de
-{{company.name}} relative à la réalisation de la prestation. Le Client
-reconnaît que son implication et sa collaboration sont nécessaires pour la
-bonne exécution du contrat. Tout retard ou défaut de diligence du Client pourra
-entraîner un report de livraison de {{company.name}} supérieur d’une semaine à
-la durée dudit retard ou défaut de diligence du Client, sans que ce report ne
-puisse constituer une faute de {{company.name}} ou un préjudice pour le Client.
-
+{{company.name}} relative à la réalisation de la prestation. Le Client reconnaît
+que son implication et sa collaboration sont nécessaires pour la bonne exécution
+du contrat. Tout retard ou défaut de diligence du Client pourra entraîner un
+report de livraison de {{company.name}} supérieur d’une semaine à la durée dudit
+retard ou défaut de diligence du Client, sans que ce report ne puisse constituer
+une faute de {{company.name}} ou un préjudice pour le Client.
 
 ## Article 5. Méthode : développements itératifs
 
-Dans le cadre de cette méthode de travail, {{company.name}} s’engage à
-concevoir un Livrable conformément à la méthode Agile. Le développement du
-Livrable fait en conséquence l’objet de plusieurs Itérations.
+Dans le cadre de cette méthode de travail, {{company.name}} s’engage à concevoir
+un Livrable conformément à la méthode Agile. Le développement du Livrable fait
+en conséquence l’objet de plusieurs Itérations.
 
 Chaque Itération est soumise au plan de travail suivant :
 
@@ -142,15 +137,14 @@ charge de travail est suffisante pour l’Itération.
 Au terme de l’Itération, le Livrable est livré au Client et réceptionné
 conformément à l’Article "Procédure de réception" des présentes.
 
-
 ## Article 6. Procédure de réception
 
 À la fin de chacune des phases de développement, {{company.name}} livre au
 Client un Livrable. Dans un délai de 1 semaine à compter de la livraison, le
 Client valide le Livrable ou émet des réserves sur celui-ci.
 
-Si le Client émet des réserves dans le délai précité, {{company.name}}
-procédera aux Corrections du Livrable, à l’exclusion de toute Évolution.
+Si le Client émet des réserves dans le délai précité, {{company.name}} procédera
+aux Corrections du Livrable, à l’exclusion de toute Évolution.
 
 Si le Client n’a émis aucune réserve dans le délai précité, le Livrable soumis
 au Client est considéré comme étant tacitement réceptionné par celui-ci.
@@ -163,31 +157,31 @@ au Client est considéré comme étant tacitement réceptionné par celui-ci.
 Livrable pourrait causer aux serveurs et matériels informatiques du Client.
 
 Dans l’hypothèse où le Client réaliserait lui-même une Évolution ou en
-confierait la réalisation à un tiers, {{company.name}} ne sera plus en mesure
-de prendre en charge les Corrections du Livrable. {{company.name}} exclut par
-ailleurs toute responsabilité au titre des Évolutions apportées par le Client
-ou un tiers au Livrable.
+confierait la réalisation à un tiers, {{company.name}} ne sera plus en mesure de
+prendre en charge les Corrections du Livrable. {{company.name}} exclut par
+ailleurs toute responsabilité au titre des Évolutions apportées par le Client ou
+un tiers au Livrable.
 
 La réception du Livrable par le Client couvre les défauts de conformité
-apparents et les vices apparents. Toute action à l’encontre de
-{{company.name}}, notamment au titre d’un défaut de conformité caché ou d’un
-vice caché, est prescrite dans le délai d’un an à compter de la réception
-définitive du Livrable par le Client.
+apparents et les vices apparents. Toute action à l’encontre de {{company.name}},
+notamment au titre d’un défaut de conformité caché ou d’un vice caché, est
+prescrite dans le délai d’un an à compter de la réception définitive du Livrable
+par le Client.
 
-La responsabilité de {{company.name}} est limitée au préjudice direct,
-personnel et certain subi par le Client et lié à la défaillance en cause.
-{{company.name}} ne pourra en aucun cas être tenue responsable des dommages
-indirects tels que, notamment, les pertes de données, les préjudices
-commerciaux, les pertes de commandes, les atteintes à l’image de marque, les
-troubles commerciaux et les pertes de bénéfices ou de clients. Le montant des
-dommages et intérêts mis à la charge de {{company.name}} ne pourra excéder le
-montant du prix total du Livrable, tel qu’indiqué dans le Devis.
+La responsabilité de {{company.name}} est limitée au préjudice direct, personnel
+et certain subi par le Client et lié à la défaillance en cause. {{company.name}}
+ne pourra en aucun cas être tenue responsable des dommages indirects tels que,
+notamment, les pertes de données, les préjudices commerciaux, les pertes de
+commandes, les atteintes à l’image de marque, les troubles commerciaux et les
+pertes de bénéfices ou de clients. Le montant des dommages et intérêts mis à la
+charge de {{company.name}} ne pourra excéder le montant du prix total du
+Livrable, tel qu’indiqué dans le Devis.
 
-Aux termes de chaque Itération, {{company.name}} conserve son entière liberté
-de poursuivre ou de ne pas poursuivre le projet avec le Client.
-{{company.name}} pourra en conséquence arrêter les développements après chaque
-livraison d’une Itération, sans que cela ne constitue une faute de
-{{company.name}} ou un préjudice pour le Client.
+Aux termes de chaque Itération, {{company.name}} conserve son entière liberté de
+poursuivre ou de ne pas poursuivre le projet avec le Client. {{company.name}}
+pourra en conséquence arrêter les développements après chaque livraison d’une
+Itération, sans que cela ne constitue une faute de {{company.name}} ou un
+préjudice pour le Client.
 
 ### 7.2. Force majeure et faute du client
 
@@ -202,11 +196,11 @@ d’explosion, de tremblement de terre, de fluctuations de la bande passante, de
 manquement imputable au fournisseur d’accès , de défaillance des réseaux de
 transmission, d’effondrement des installations, d’utilisation illicite ou
 frauduleuse des mots de passe, codes ou références fournis au Client, de
-piratage informatique, d’une faille de sécurité imputable à l’hébergeur du
-Site, d’inondation, de panne d’électricité, de guerre, d’embargo, de loi,
-d’injonction, de demande ou d’exigence de tout gouvernement, de réquisition, de
-grève, de boycott, ou autres circonstances hors du contrôle raisonnable de
-{{company.name}}.
+piratage informatique, d’une faille de sécurité imputable à l’hébergeur du Site
+ou à une Bibliothèque utilisée dans le projet, d’inondation, de panne
+d’électricité, de guerre, d’embargo, de loi, d’injonction, de demande ou
+d’exigence de tout gouvernement, de réquisition, de grève, de boycott, ou autres
+circonstances hors du contrôle raisonnable de {{company.name}}.
 
 #### 7.2.2. Faute du Client
 
@@ -242,8 +236,8 @@ l’utilisation des Éléments apportés aux fins des présentes. Il garantit
 
 {{company.name}} consent au Client, à titre non exclusif, en l’état, des
 licences d’utilisation portant sur les Bibliothèques du Livrable. Les licences
-sont consenties pour le monde entier et pour toutes langues, pour toute la
-durée de protection des droits de propriété intellectuelle.
+sont consenties pour le monde entier et pour toutes langues, pour toute la durée
+de protection des droits de propriété intellectuelle.
 
 La rémunération de {{company.name}} au titre de la transmission des droits de
 propriété intellectuelle est forfaitaire.
@@ -263,8 +257,8 @@ de propriété intellectuelle et pour le monde entier, par tout procédé, quel
 qu’il soit, connu ou inconnu à ce jour, et notamment par tous les réseaux de
 communication, actuels et futurs, et ce sur tout support, en tout format. S’il
 s’agit de logiciel, la présente licence porte sur le code objet, le code source
-et la documentation du logiciel, {{company.name}} autorisant le Client à
-accéder aux codes du logiciel.
+et la documentation du logiciel, {{company.name}} autorisant le Client à accéder
+aux codes du logiciel.
 
 Le client pourra consentir à des sous-licences sur les développements
 spécifiques. La rémunération de {{company.name}} au titre de la licence des
@@ -284,14 +278,14 @@ licence stipulée à l’article 9.1.1..
 
 #### 9.1.4. Garanties
 
-{{company.name}} garantit au Client qu’il sera le seul auteur des
-développements spécifiques et qu'à ce titre il sera le seul titulaire de
-l'ensemble des droits de propriété intellectuelle relatifs à ces développements
-spécifiques et qu’aucun tiers ne pourra prétendre à la qualité d’auteur ou de
-co-auteur de ces développements spécifiques. {{company.name}} s’engage
-notamment à respecter les droits de propriété intellectuelle des tiers,
-notamment les droits d'auteur, les droits sur les dessins et modèles, ainsi que
-les droits sur les brevets et sur les marques.
+{{company.name}} garantit au Client qu’il sera le seul auteur des développements
+spécifiques et qu'à ce titre il sera le seul titulaire de l'ensemble des droits
+de propriété intellectuelle relatifs à ces développements spécifiques et
+qu’aucun tiers ne pourra prétendre à la qualité d’auteur ou de co-auteur de ces
+développements spécifiques. {{company.name}} s’engage notamment à respecter les
+droits de propriété intellectuelle des tiers, notamment les droits d'auteur, les
+droits sur les dessins et modèles, ainsi que les droits sur les brevets et sur
+les marques.
 
 {{company.name}} garantit au Client la jouissance paisible des droits cédés en
 vertu du présent contrat. {{company.name}} garantit le Client contre toute
@@ -303,8 +297,8 @@ déloyale et/ou parasitaire, du fait de la Prestation.
 
 À défaut de mention contraire dans le Devis, le nom de {{company.author}},
 auteur originaire du Logiciel, devra être associé au Livrable au cours de son
-exploitation. S’il s’agit d’un site web, le nom de {{company.author}}
-apparaîtra :
+exploitation. S’il s’agit d’un site web, le nom de {{company.author}} apparaîtra
+:
 
 sur une page appelée « Crédit », « Informations légales » ou « Mentions légales
 » accessible depuis la page d’accueil du site et comportant un lien hypertexte
@@ -317,7 +311,6 @@ dans le header du code HTML des pages web du site sous la balise « Creator ».
 {{company.name}} autorise le Client à effectuer lui-même des Évolutions du
 Livrable et à en assurer la maintenance.
 
-
 ## Article 11. Prix et modalités de paiement
 
 ### 11.1. Prix
@@ -327,7 +320,7 @@ facturation est au temps passé sur la base des temps consommés par les
 différents profils sur chaque Itération et a lieu après chaque Itération.
 
 À défaut de stipulation contraire dans le Devis, le paiement interviendra au
-maximum 60 jours après chacune des Itérations.
+maximum 30 jours après chacune des Itérations.
 
 ### 11.2. Rabais – Remise – Ristourne
 
@@ -364,8 +357,8 @@ celui des risques.
 
 Afin de garantir l’équilibre économique du Contrat, {{company.name}} et le
 Client s’engagent à ne pas embaucher, tenter d’embaucher ou faire travailler
-directement ou indirectement un salarié, un collaborateur ou un sous-traitant
-de l’autre partie durant l’exécution du présent contrat et jusqu’à
+directement ou indirectement un salarié, un collaborateur ou un sous-traitant de
+l’autre partie durant l’exécution du présent contrat et jusqu’à
 {{cgv.non_solicitation_years}} ans après la réception du Livrable.
 
 En cas de non-respect de cette clause, la partie n’ayant pas respecté la
